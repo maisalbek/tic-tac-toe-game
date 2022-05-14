@@ -4,6 +4,9 @@
 /node_modules
 /.pnp
 .pnp.js
+/Home.jsx
+/Home.css
+/db.json
 
 # testing
 /coverage
